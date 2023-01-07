@@ -14,7 +14,7 @@ permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
 avatar: "/assets/headshot.jpg"
-ga_tracking_id: "UA-82647777-1"
+ga_tracking_id: 
 
 # Build settings
 markdown: kramdown
@@ -43,6 +43,10 @@ exclude:
 # Collections
 collections:
   - talks
+  
+#About/contact
+
+gravatar_md5: a:1:{s:5:"entry";a:1:{i:0;a:9:{s:2:"id";s:8:"99166618";s:4:"hash";s:32:"c7727fe1b90ca470110f6387d4b446e6";s:11:"requestHash";s:17:"jsfinberggmailcom";s:10:"profileUrl";s:37:"http://gravatar.com/jsfinberggmailcom";s:17:"preferredUsername";s:17:"jsfinberggmailcom";s:12:"thumbnailUrl";s:61:"http://0.gravatar.com/avatar/c7727fe1b90ca470110f6387d4b446e6";s:6:"photos";a:1:{i:0;a:2:{s:5:"value";s:61:"http://0.gravatar.com/avatar/c7727fe1b90ca470110f6387d4b446e6";s:4:"type";s:9:"thumbnail";}}s:11:"displayName";s:17:"Joseph S. Finberg";s:4:"urls";a:0:{}}}}
 
 #
 # Social settings are used in two places:
